@@ -1,0 +1,4 @@
+include ':compatibility'
+include ':zippy'
+include ':app'
+rootProject.name = "compat"
